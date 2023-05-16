@@ -39,6 +39,12 @@
   <li>CSS: Used for styling the application.</li>
 </ul>
 
+<h2>Screenshots</h2>
+     <img src="https://github.com/liorarviv1/React-Node-Socket-Chat/assets/129841851/9c96007f-a55a-42aa-9e60-fff71c8b87ef" width="800">
+     <img src="https://github.com/liorarviv1/React-Node-Socket-Chat/assets/129841851/83bc185d-ad22-49f7-a105-1646ef7c4e75" width="800">
+     <img src="https://github.com/liorarviv1/React-Node-Socket-Chat/assets/129841851/ba9134d0-1154-4146-aac1-469e7d09f349" width="800">
+     
+
 <h2>Contributing</h2>
 
 <p>Contributions are welcome! If you encounter any issues or have suggestions for improvements, please open an issue or submit a pull request.</p>
