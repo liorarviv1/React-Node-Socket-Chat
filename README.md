@@ -15,7 +15,7 @@
 <p>To run the application locally, follow these steps:</p>
 
 <pre>
-  <code>git clone You mean this https://github.com/liorarviv1/React-Node-Socket-Chat</code>
+  <code>git clone https://github.com/liorarviv1/React-Node-Socket-Chat</code>
   <code>cd myapp</code>
   <code>npm install</code>
   <code>npm start</code>
